@@ -21,8 +21,6 @@ System.out.println("Min is"+min);
 
 public class reverseArray { 
   
-    /* function that reverses array and stores it  
-       in another array*/
     static void reverse(int a[], int n) 
     { 
         int[] b = new int[n]; 
